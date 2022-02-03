@@ -15,7 +15,7 @@
 
 
 - 🌱 I’m currently learning **Django**
-- 👀 I’m interested in software and mobile development  
+- 👀 I’m interested in software development  
 - 🤖 I am currently working on a **Web App**
 - 👨🏻‍🏫 I am Looking for **Internships**
 - 🔥 Future goal (Still Exploring)
