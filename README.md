@@ -52,44 +52,12 @@
 
 <h3 align="left">Online judge ID's:</h3>
 <p align="left">
-    <a href="https://leetcode.com/gaurav021201"><img alt="Custom badge" src="https://img.shields.io/badge/LeetCode-10-red" height="30px" ></a>
- <a href="https://codeforces.com/profile/grvsh02"><img alt="Custom badge" src="https://img.shields.io/badge/Codeforces-1755-blue" height="30px" ></a>
-    <a href="https://www.codechef.com/users/grvsh02"><img alt="Custom badge" src="https://img.shields.io/badge/CodeChef-54-orange" height="30px" ></a>
+ <a href="https://codeforces.com/profile/grvsh02"><img alt="Custom badge" src="https://img.shields.io/badge/Codeforces-1073-blue" height="30px" ></a>
+    <a href="https://www.codechef.com/users/grvsh02"><img alt="Custom badge" src="https://img.shields.io/badge/CodeChef-1621-orange" height="30px" ></a>
     <a href="https://www.hackerrank.com/gaurav021201"><img alt="Custom badge" src="https://img.shields.io/badge/HackerRank-40-yellowgreen" height="30px" ></a>
  <br>
 </p>
 
-</br>
-
-
-
- </br>
- <h3 align="left">⚒  Integrated Development Environments - IDE's:</h3>
-<p align="left">
- <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
- <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> 
-<a href="https://www.jetbrains.com/pycharm/" rel="nofollow"><img src="https://camo.githubusercontent.com/839a79743e6b84a7c9134f089b2961948df3e252709cb962fb20335d5b430748/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5079436861726d2d3030336632633f7374796c653d666f722d7468652d6261646765266c6f676f3d5079436861726d266c6f676f436f6c6f723d7768697465" alt="PyCharm" title="PyCharm" data-canonical-src="https://img.shields.io/badge/-PyCharm-003f2c?style=for-the-badge&amp;logo=PyCharm&amp;logoColor=white" style="max-width:100%;"></a>
-<a href="https://www.eclipse.org/ide/" rel="nofollow"><img src="https://camo.githubusercontent.com/e94c506671e04a00c96f348821d212086714dbffcc98cb17fead097355017543/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d45636c697073652d3362326535613f7374796c653d666f722d7468652d6261646765266c6f676f3d45636c69707365266c6f676f436f6c6f723d7768697465" alt="Eclipse" title="Eclipse" data-canonical-src="https://img.shields.io/badge/-Eclipse-3b2e5a?style=for-the-badge&amp;logo=Eclipse&amp;logoColor=white" style="max-width:100%;"></a>
-<a href="https://developer.android.com/studio" rel="nofollow"><img src="https://camo.githubusercontent.com/25f6b994eeba28f58dcae846041938cb960cfa131e084b02cd30c2ea2df827c6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e64726f696425323053747564696f2d3030383646383f7374796c653d666f722d7468652d6261646765266c6f676f3d616e64726f69642d73747564696f266c6f676f436f6c6f723d7768697465" alt="Android Studio" title="Android Studio" data-canonical-src="https://img.shields.io/badge/Android%20Studio-0086F8?style=for-the-badge&amp;logo=android-studio&amp;logoColor=white" style="max-width:100%;"></a>
-<img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=Jupyter" alt="Jupyter" title="Jupyter" data-canonical-src="https://img.shields.io/badge/Android%20Studio-0086F8?style=for-the-badge&amp;logo=android-studio&amp;logoColor=white" style="max-width:100%;">
-<img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="Codechef" title="codechef" data-canonical-src="https://img.shields.io/badge/Android%20Studio-0086F8?style=for-the-badge&amp;logo=android-studio&amp;logoColor=white" style="max-width:100%;">
-
-
-</p>
-
-</br>
-<h3 align="left">📱💻 Operating System:</h3>
-<p align="left">
-
-<a href="https://www.microsoft.com/en-us/windows" target="_blank"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="linux" /> </a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" /> </a> 
-<a href="https://developer.android.com" target="_blank"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android" /> </a>
- <a href="https://www.kali.org/" target="_blank"> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="kali linux" /> </a>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-<img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="Linux Mint" />
-<img src="https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white" alt="Deepin OS" />
-
-</p>
 </br>
 <h1></h1>
 
@@ -112,8 +80,6 @@
 <br>
 
 <h3 align="left">Contributions: </h3>
-<img src="https://activity-graph.herokuapp.com/graph?username=grvsh02&amp;theme=react-dark&amp;hide_border=true&amp;area=true" style="max-width:100%;">
-<br>
 <p align="center">
 <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grvsh02&amp;theme=solarized_dark" style="max-width:100%;">
 </p>
