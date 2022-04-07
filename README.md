@@ -14,7 +14,7 @@
 <img align="right" width="500" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="Coding">
 
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **React**
 - 👀 I’m interested in software development  
 - 🤖 I am currently working on a **Web App**
 - 👨🏻‍🏫 I am Looking for **Internships**
