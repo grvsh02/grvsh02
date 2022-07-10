@@ -20,7 +20,7 @@
 - 👨🏻‍🏫 I am Looking for **Internships**
 - 🔥 Future goal (Still Exploring)
 - 💬 Ask me about **Programming**
-- 👨‍💻 All of my projects are available at [my website](grvsh02.github.io)
+- 👨‍💻 All of my projects are available at [my website](https://grvsh02.github.io/)
 
 
 
