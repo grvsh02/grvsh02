@@ -1,6 +1,4 @@
 
- <p align="center"><a href="https://github.com/grvsh02"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
-
 <img align="right" width="500" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="Coding">
 
 
@@ -18,7 +16,7 @@
 </br>
 </br>
 
-<h3 align="left">Connect with me:<img align="center" src="https://github.com/CyberBoyAyush/CyberBoyAyush/raw/master/gifs/Handshake.gif" height="45px" style="max-width:100%;"></h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/gaurav_021201" rel="nofollow"><img src="https://camo.githubusercontent.com/de15448147318b59c82d106c5d072ba7de21963a3064747e9065ff01caa1cbf3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636c6f7564732f39302f3461393065322f696e7374616772616d2d6e65772d2d76322e706e67" data-canonical-src="https://img.icons8.com/clouds/90/4a90e2/instagram-new--v2.png" style="max-width:100%;"></a>
 <a href="https://linkedin.com/in/gaurav021201" rel="nofollow"><img src="https://camo.githubusercontent.com/0ff78512f45d498526f436fb6bb7c8cc39c7a2a8a3eef8b13df9553c34b3b5e3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636c6f7564732f39302f3461393065322f6c696e6b6564696e2e706e67" data-canonical-src="https://img.icons8.com/clouds/90/4a90e2/linkedin.png" style="max-width:100%;"></a>
@@ -29,7 +27,4 @@
  
  <br>
  <br>
-<br>
-
-<p align="center"><a href="https://github.com/grvsh02"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
 <br>
