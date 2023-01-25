@@ -14,12 +14,11 @@
 <img align="right" width="500" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="Coding">
 
 
-- 🌱 I’m currently learning **React**
-- 👀 I’m interested in software development  
-- 🤖 I am currently working on a **Web App**
-- 👨🏻‍🏫 I am Looking for **Internships**
-- 🔥 Future goal (Still Exploring)
-- 💬 Ask me about **Programming**
+- 🌱 I’m currently learning **Deep Learning with Keras**
+- 👀 I’m interested in Data Pipelines and MLOps
+- 🤖 I am currently working on **Reducing my models Latency**
+- 🔥 Future goal Data Engineering
+- 💬 Ask me about **Anything from web to ML**
 - 👨‍💻 All of my projects are available at [my website](https://grvsh02.github.io/)
 
 
