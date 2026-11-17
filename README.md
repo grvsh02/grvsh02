@@ -2,11 +2,11 @@
 <img align="right" width="500" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="Coding">
 
 
-- 🌱 I’m currently learning **Deep Learning with Keras**
-- 👀 I’m interested in Data Pipelines and MLOps
-- 🤖 I am currently working on **Reducing my models Latency**
-- 🔥 Future goal Data Engineering
-- 💬 Ask me about **Anything from web to ML**
+- 🌱 I’m currently learning **Distributed Systems, System Design, and AI Infrastructure**
+- 👀 I’m interested in Backend Engineering, Scalable Systems, MLOps, and Cloud Infrastructure
+- 🤖 I am currently working on **Optimizing LLM Inference, GPU Utilization, and Building Production-Ready AI Systems**
+- 🔥 Future goal Building Highly Scalable, Reliable, and Distributed Backend Systems
+- 💬 Ask me about **Python, Backend Development, Distributed Systems, AWS, Kubernetes, and ML Model Serving**
 - 👨‍💻 All of my projects are available at [my website](https://grvsh02.github.io/)
 
 
